@@ -4,6 +4,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var arrays_1 = __importDefault(require("../utilities/arrays"));
+// import numbers from '../utilities/numbers';
 var strings_1 = __importDefault(require("../utilities/strings"));
 var numArr = [3, 4, 5, 6];
 var wordArr = ['cat', 'dog', 'rabbit', 'bird'];

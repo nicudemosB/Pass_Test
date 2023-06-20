@@ -26,7 +26,6 @@ var CustomProcessor = /** @class */ (function (_super) {
     };
     return CustomProcessor;
 }(jasmine_spec_reporter_1.DisplayProcessor));
-jasmine.getEnv().clearReporters();
 jasmine.getEnv().addReporter(new jasmine_spec_reporter_1.SpecReporter({
     spec: {
         displayStacktrace: jasmine_spec_reporter_1.StacktraceOption.NONE
